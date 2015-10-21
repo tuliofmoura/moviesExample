@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes EX</string>
+
+
+    <!-- ACTIVITIES TITLE -->
+    <string name="activity_title_movies">Meus filmes</string>
+    <string name="activity_title_search">Buscar filme</string>
+    <string name="activity_title_details">Detalhes do filme</string>
+
+    <!-- GENERAL -->
+    <string name="add">Adicionar</string>
+    <string name="search">Buscar</string>
+    <string name="searching">Buscando…</string>
+    <string name="error_dialog_title">Ooops</string>
+    <string name="error_dialog_internal_msg">Ocorreu um erro inesperado.</string>
+    <string name="error_dialot_no_connection_msg">Não foi possível completar a requisição. Você está sem Internet?</string>
+
+
+    <!-- MY MOVIES -->
+    <string name="empty_my_movies">Você ainda não tem nenhum filme adicionado</string>
+
+    <!-- MOVIE DETAILS -->
+    <string name="year">Ano:</string>
+    <string name="released">Lançamento:</string>
+    <string name="runtime">Duração:</string>
+    <string name="genre">Gênero:</string>
+    <string name="director">Diretor:</string>
+    <string name="actors">Atores:</string>
+    <string name="awards">Prêmios:</string>
+    <string name="imdb_rating">Média no IMDB:</string>
+    <string name="plot">Enredo:</string>
+    <string name="empty_detail">Busque um filme pelo nome para visualizar os detalhes</string>
+    <string name="add_movie_success">Filme adicionado com sucesso</string>
+
+    <!-- SEARCH -->
+    <string name="search_hint">Digite o nome do filme para buscar</string>
+    <string name="search_no_result_msg">Não foi encontrado nenhum filme com este título.</string>
+    <string name="search_encode_error_msg">Não é possível realizar a busca com este título.</string>
+
+
+</resources>

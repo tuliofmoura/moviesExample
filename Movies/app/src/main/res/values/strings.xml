@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies EX</string>
+
+
+    <!-- ACTIVITIES TITLE -->
+    <string name="activity_title_movies">My movies</string>
+    <string name="activity_title_search">Search movie</string>
+    <string name="activity_title_details">Movie details</string>
+
+    <!-- GENERAL -->
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="searching">Searching…</string>
+    <string name="error_dialog_title">Ooops</string>
+    <string name="error_dialog_internal_msg">An unexpected error occurred.</string>
+    <string name="error_dialog_no_connection_msg">Could not complete the request. Do you are without Internet?</string>
+
+    <!-- MY MOVIES -->
+    <string name="empty_my_movies">You do not have any movie added</string>
+
+    <!-- MOVIE DETAILS -->
+    <string name="year">Year:</string>
+    <string name="released">Released:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="genre">Genre:</string>
+    <string name="director">Director:</string>
+    <string name="actors">Actors:</string>
+    <string name="awards">Awards:</string>
+    <string name="imdb_rating">IMDB rating:</string>
+    <string name="plot">Plot:</string>
+    <string name="empty_detail">Search a movie by name to view the details of it</string>
+    <string name="add_movie_success">Movie successfully added</string>
+
+    <!-- SEARCH -->
+    <string name="search_hint">Enter the name of the movie to search</string>
+    <string name="search_no_result_msg">No film was found with that title.</string>
+    <string name="search_encode_error_msg">It can not perform the search with this title.</string>
+
+    <!-- WEB SERVICE -->
+    <string name="web_service_url">http://www.omdbapi.com/?plot=full&amp;t=</string>
+
+</resources>
